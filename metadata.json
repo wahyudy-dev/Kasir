@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Kasir & Inventory",
+  "description": "Aplikasi penjualan barang terintegrasi Google Spreadsheet dengan manajemen stok, harga modal/jual, dan laporan laba rugi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
